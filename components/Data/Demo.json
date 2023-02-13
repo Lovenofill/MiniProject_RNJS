@@ -1,0 +1,39 @@
+{
+    "Product": [
+        {
+            "id": 1,
+            "name": "Demo 1",
+            "price": 2000,
+            "Amount": 50,
+            "Pic": "https://cdn.discordapp.com/attachments/868948457942028351/1020024418170306643/305677631_1723201441370053_777946778728314984_n.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Demo 2",
+            "price": 1500,
+            "Amount": 50,
+            "Pic": "https://cdn.discordapp.com/attachments/868948457942028351/882245066125639720/unknown.png"
+        },
+        {
+            "id": 3,
+            "name": "Demo 3",
+            "price": 1000,
+            "Amount": 50,
+            "Pic": "https://cdn.discordapp.com/attachments/868948457942028351/1060046131356237854/image.png"
+        },
+        {
+            "id": 4,
+            "name": "Demo 4",
+            "price": 500,
+            "Amount": 50,
+            "Pic": "https://cdn.discordapp.com/attachments/868948457942028351/881555359993565244/unknown.png"
+        },
+        {
+            "id": 5,
+            "name": "Demo 5",
+            "price": 100,
+            "Amount": 50,
+            "Pic": "https://cdn.discordapp.com/attachments/868948457942028351/1020024418170306643/305677631_1723201441370053_777946778728314984_n.jpg"
+        }
+    ]
+}
